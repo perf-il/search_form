@@ -1,0 +1,37 @@
+{
+  "_default": {
+    "1": {
+      "name": "UserForm",
+      "user_name": "text",
+      "user_email": "email",
+      "user_phone": "phone"
+    },
+    "2": {
+      "name": "OrderForm",
+      "customer": "text",
+      "customer_email": "email",
+      "date_order": "date",
+      "order": "text"
+    },
+    "3": {
+      "name": "DeliveryForm",
+      "customer": "text",
+      "city": "text",
+      "phone": "phone",
+      "date_delivered": "date"
+    },
+    "4": {
+      "name": "CallBackForm",
+      "title": "text",
+      "phone": "phone",
+      "comment": "text"
+    },
+    "5": {
+      "name": "ReviewForm",
+      "user_name": "text",
+      "user_email": "email",
+      "date_review": "date",
+      "content": "text"
+    }
+  }
+}
